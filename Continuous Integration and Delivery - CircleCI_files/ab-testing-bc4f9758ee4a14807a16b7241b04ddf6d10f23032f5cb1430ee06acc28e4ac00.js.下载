@@ -1,0 +1,1 @@
+!function(){var t=Array.from(document.querySelectorAll("[data-optimizely]"));window.optimizely=window.optimizely||[],t.forEach(function(t){t.addEventListener("click",function(){window.optimizely.push({type:"event",eventName:t.getAttribute("data-optimizely")})})})}();

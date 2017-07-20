@@ -1,0 +1,25 @@
+    1  git config --gloabl user.name "username"
+    2  git config --gloabl user.name "menglongmeii"
+    3  git config --global menglongmeii.name "menglongneii"
+    4  git init echo "# github.io" >> README.md
+    5  git init
+    6  git add README.md
+    7  git commit -m "first commit"
+    8  git remote add origin https://github.com/menglongmeii/github.io.git
+    9  git push -u origin master
+   10  menglongmeii
+   11  xingyuan777
+   12  git config --global menglongmeii.name "menglongmeii"
+   13  git config --global user.name "menglongmeii"
+   14  git config --gloabl user.email "2639966895@qq.com"
+   15  git config --gloabl user.email "2639966895@qq.com"
+   16  git config --global user.email "2639966895@qq.com"
+   17  git config --global user.init "xingyuan777"
+   18  git init $ git init
+   19  age: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]
+   20  menglongmeii
+   21  xingyuan777
+   22  git init age: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]
+   23  git push origin master 
+   24  history > cmdlog.txt
+   25  history >cmdlog.txt

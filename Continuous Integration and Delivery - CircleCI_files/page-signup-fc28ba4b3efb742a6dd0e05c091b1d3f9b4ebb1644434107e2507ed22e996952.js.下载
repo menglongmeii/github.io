@@ -1,0 +1,1 @@
+!function(){if("/signup/"===window.location.pathname){var n=Array.from(document.querySelectorAll("[data-analytics-action=vcs-authorize-clicked]"));n.forEach(function(n){n.addEventListener("click",function(e){e.preventDefault(),qEvent(getAnonymousId(),"Sign Up Confirmation - Order ID","refresh"),window.location=n.href})})}}();

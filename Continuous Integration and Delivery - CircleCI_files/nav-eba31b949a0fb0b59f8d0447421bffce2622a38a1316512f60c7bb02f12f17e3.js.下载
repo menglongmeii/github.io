@@ -1,0 +1,1 @@
+!function(){var s=Array.from(document.querySelectorAll("nav li.arrow"));s.forEach(function(s){s.addEventListener("click",function(){this.classList.contains("collapsed")?this.classList.remove("collapsed"):this.classList.add("collapsed")})})}();
